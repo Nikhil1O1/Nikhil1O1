@@ -6,7 +6,7 @@
 - 🌱 I’m currently exploring Neural Networks
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I certainly believe we live in a Biological simulation
+- ⚡ Fun fact: I certainly believe that we live in a Biological simulation
 
 ### Spotify Playing 🎧
 
