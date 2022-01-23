@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring Devlopment
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I certainly believe that we live in a Biological simulation
 
 ### Spotify Playing 🎧
