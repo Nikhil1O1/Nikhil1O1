@@ -1,11 +1,11 @@
 ### Hi there, I'm Nikhil - aka [Nikhil1O1][website] 👋
 
 
-## I'm a C.S.E undergrad and a Machine Learning Fanatic!!
+## I'm a C.S.E Graduate and a MERN enthusiast!!
 
 - 🌱 I’m currently exploring Devlopment
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate on intresting projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I certainly believe that we live in a Biological simulation
 
 ### Spotify Playing 🎧
